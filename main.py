@@ -13,7 +13,7 @@ from os.path import isfile,join
 
 pygame.init()
 pygame.joystick.init()
-pygame.display.set_caption("Platformer game")
+pygame.display.set_caption("Astra Vale")
 pygame.mixer.init()
 # Music Initialization
 rickroll_url = "https://www.youtube.com/watch?v=wZMue5I8qn8&list=RDwZMue5I8qn8&start_radio=1"
