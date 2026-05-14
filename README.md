@@ -1,7 +1,3 @@
-# This code is not fully done yet, didn't want to go through the trouble of making it private, then public
-
-
-
 # 🎮 Astra-Vale
 This is Astra Vale, the Final Project for my VDG Design Class. Built with Pygame and Python, and there are various game mechanics.
 
